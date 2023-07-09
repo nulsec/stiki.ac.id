@@ -51,7 +51,6 @@ INSERT INTO `tb_akd_tr_ambil_mk` VALUES ('201830253', 'TI14KB23', '2018', 'B1', 
 INSERT INTO `tb_akd_tr_ambil_mk` VALUES ('201830253', 'TI14KB24', '2018', 'B1', 1, 'Genap', 'NO', NULL, 'SIAKAD', 'dedyari@stiki.ac.id', '2019-02-19 16:36:09', NULL, NULL, NULL, 'adrian', '2019-03-19 11:21:29');
 INSERT INTO `tb_akd_tr_ambil_mk` VALUES ('201830253', 'TI14KK11', '2018', 'B', 1, 'Genap', 'NO', NULL, 'SIAKAD', 'dedyari@stiki.ac.id', '2019-02-19 16:45:38', NULL, NULL, NULL, 'adrian', '2019-03-19 11:21:29');
 INSERT INTO `tb_akd_tr_ambil_mk` VALUES ('201830253', 'TI14KK21', '2018', 'B', 1, 'Genap', 'NO', NULL, 'SIAKAD', 'dedyari@stiki.ac.id', '2019-02-19 16:45:38', NULL, NULL, NULL, 'adrian', '2019-03-19 11:21:29');
-[/code]
 INSERT INTO `tb_akd_tr_ambil_mk` VALUES ('201830253', 'TI14KK23', '2018', 'B', 1, 'Genap', 'NO', NULL, 'SIAKAD', 'dedyari@stiki.ac.id', '2019-02-19 16:45:38', NULL, NULL, NULL, 'adrian', '2019-03-19 11:21:29');
 INSERT INTO `tb_akd_tr_ambil_mk` VALUES ('201830253', 'TI14KK24', '2018', 'B', 1, 'Genap', 'NO', NULL, 'SIAKAD', 'dedyari@stiki.ac.id', '2019-02-19 16:45:38', NULL, NULL, NULL, 'adrian', '2019-03-19 11:21:29');
 INSERT INTO `tb_akd_tr_ambil_mk` VALUES ('201810676', 'TI14BB11', '2018', 'A', 1, 'Ganjil', 'NO', NULL, 'SIAKAD', 'dedyari@stiki.ac.id', '2018-09-07 10:19:03', NULL, NULL, NULL, 'adrian', '2019-03-19 11:22:12');

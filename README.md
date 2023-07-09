@@ -1,6 +1,6 @@
 # stiki.ac.id
 
-database stiki_terpadu example data
+database stiki_terpadu example data & full script
 
 more data 
 contact : nuledsec@proton.me
